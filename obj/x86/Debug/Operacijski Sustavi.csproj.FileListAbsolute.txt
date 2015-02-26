@@ -1,0 +1,27 @@
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\bin\Debug\Operacijski Sustavi.exe
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\bin\Debug\Operacijski Sustavi.pdb
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski_Sustavi.Form1.resources
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski_Sustavi.Properties.Resources.resources
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski Sustavi.exe
+c:\users\moki\documents\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski Sustavi.pdb
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski Sustavi.exe
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski Sustavi.pdb
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\bin\Debug\Operacijski Sustavi.exe
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\bin\Debug\Operacijski Sustavi.pdb
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski_Sustavi.Form1.resources
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski_Sustavi.Properties.Resources.resources
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\osx\Users\mc_fish\Desktop\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski Sustavi.exe
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski Sustavi.pdb
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\bin\Debug\Operacijski Sustavi.exe
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\bin\Debug\Operacijski Sustavi.pdb
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski_Sustavi.Form1.resources
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\Operacijski_Sustavi.Properties.Resources.resources
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\moki\Desktop\Operacijski Sustavi\Operacijski Sustavi\Operacijski Sustavi\obj\x86\Debug\GenerateResource.write.1.tlog
